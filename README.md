@@ -1,0 +1,3 @@
+# IBM_SPSS_Multiple_Linear_Regression and Time series analysis
+The aim is to understand the relationship between the total deaths occurred in the year 2008 to different causes like cancer, chronic and all. The death count due to each factor is compared to the total death count and multiple regression is used to predict the total death count using individual factors.
+The aim is to understand the changes in production of Natural gas, for UK, over the years. Price of natural gas has a wide impact over the revenue of the country. The plan is to analyse the production over the years, visualize any trend in data and try to fit a suitable predictive model on the time series. 
